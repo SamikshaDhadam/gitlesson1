@@ -1,0 +1,4 @@
+1,Virat,200
+2,Sami,400
+3,Samiksha,800
+4,Sam,700
